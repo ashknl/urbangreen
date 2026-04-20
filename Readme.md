@@ -5,7 +5,7 @@ This repository contains the code, datasets and final GeoTIFF files from our lab
 The aim of this project was to train an ml model that can classify green areas which can then be used to create *[Urban Green Maps](https://discomap.eea.europa.eu/atlas/?page=Urban-green-spaces)*. A map illustrating the urban greenery of a city. 
 
 ## Overview
-This analysis follows a supervised machine learning pipeline to classify urban land cover in Bhubaneswar across five temporal snapshots (2021,2023,2024,2025,2026), using multispectral satellite imagery from PlanetScope. The goal is to map the spatial distribution of green spaces and detect how they have changed over time.
+This analysis follows a supervised machine learning pipeline to classify urban land cover in Bhubaneswar across five temporal snapshots (2021,2023,2024,2025,2026), using multispectral satellite imagery from PlanetScope. The goal is to map the spatial distribution of green spaces and detect how they have changed over time.Green mark indicates vegetation , White indicates urban areas or land cover and finally the blue zone are water.
 
 ## Repo Structure
 ```
